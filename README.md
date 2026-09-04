@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1512-number-of-good-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3904-smallest-stable-index-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1480-running-sum-of-1d-array) |
+| [3904-smallest-stable-index-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |

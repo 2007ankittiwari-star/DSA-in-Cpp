@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0709-to-lower-case) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1512-number-of-good-pairs) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3904-smallest-stable-index-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1512-number-of-good-pairs) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0088-merge-sorted-array) |
 | [0724-find-pivot-index](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1512-number-of-good-pairs) |
 ## Counting

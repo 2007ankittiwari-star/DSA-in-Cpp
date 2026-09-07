@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
+| [0575-distribute-candies](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
+| [0575-distribute-candies](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |

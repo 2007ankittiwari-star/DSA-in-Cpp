@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -93,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

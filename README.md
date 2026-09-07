@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0709-to-lower-case) |
+| [0940-distinct-subsequences-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0940-distinct-subsequences-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0940-distinct-subsequences-ii) |
 ## Sliding Window
 |  |
 | ------- |

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0217-contains-duplicate) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1512-number-of-good-pairs) |

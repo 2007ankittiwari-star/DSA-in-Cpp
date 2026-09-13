@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->

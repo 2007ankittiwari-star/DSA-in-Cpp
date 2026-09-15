@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0680-valid-palindrome-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
 |  |

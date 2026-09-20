@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->

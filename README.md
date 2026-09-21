@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0283-move-zeroes) |
+| [0523-continuous-subarray-sum](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0835-image-overlap) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/3498-reverse-degree-of-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->

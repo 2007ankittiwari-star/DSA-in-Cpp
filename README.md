@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0836-rectangle-overlap) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0680-valid-palindrome-ii) |

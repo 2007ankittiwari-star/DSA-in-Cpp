@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0680-valid-palindrome-ii) |
@@ -206,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0523-continuous-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

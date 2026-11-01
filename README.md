@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/2007ankittiwari-star/DSA-in-Cpp/tree/master/0268-missing-number) |
